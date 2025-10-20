@@ -1,1 +1,1 @@
-1. [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625) [github](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers?tab=readme-ov-file#llm-inference)
+1. Bai G, Chai Z, Ling C, et al. Beyond efficiency: A systematic survey of resource-efficient large language models[J]. arXiv preprint arXiv, 2024.    [pdf](https://arxiv.org/pdf/2401.00625)    [github](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers?tab=readme-ov-file#llm-inference)
