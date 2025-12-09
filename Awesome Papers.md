@@ -4,3 +4,6 @@
 
 ##### 关于Parallelism方向论文汇总的仓库
 1. [awesome-Auto-Parallelism](https://github.com/ConnollyLeon/awesome-Auto-Parallelism)
+
+##### 关于LLM MoE方向论文汇总的仓库
+1. [A-Survey-on-Mixture-of-Experts-in-LLMs](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs?tab=readme-ov-file#star-history)
